@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    PruebaPlesk
+                    PruebaPlesk para el movil
                 </div>
 
                 <div class="links">
